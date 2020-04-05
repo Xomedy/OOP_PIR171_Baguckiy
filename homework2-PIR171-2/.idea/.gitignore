@@ -1,0 +1,12 @@
+# Default ignored files
+/workspace.xml
+/target/
+/.settings/
+/.idea/
+.classpath/
+.project/
+*.iml/
+/ashpakova/
+/homework2-PIR171-2asdff/
+/src/
+/.git/
